@@ -4,7 +4,17 @@
 
 It is designed for **Logic Pro (AU MIDI FX)** and **Ableton Live (VST3)** on macOS. PitchPilot controls **Voice 1 Pitch** of a **Transpose** effect loaded in **slot B** of the current Kemper Rig. It sends MIDI; it does not process guitar audio.
 
-> Screenshots and compiled downloads will be added later.
+## Screenshots
+
+**Pattern editor** — set a pitch for each sixteenth-note step and export the result as MIDI.
+
+![PitchPilot pattern editor](images/pitchpilot-editor.png)
+
+**Logic Pro arrangement** — repeat and arrange exported MIDI regions on the timeline.
+
+![PitchPilot MIDI regions in Logic Pro](images/pitchpilot-logic-arrangement.png)
+
+Compiled downloads will be added later.
 
 ## Features
 
