@@ -8,7 +8,7 @@ It is designed for **Logic Pro (AU MIDI FX)** and **Ableton Live (VST3)** on mac
 
 **Pattern editor** — set a pitch for each sixteenth-note step and export the result as MIDI.
 
-![PitchPilot pattern editor](images/pitchpilot-editor.png)
+![PitchPilot pattern editor](images/pitchpilot-editor-0.7.png)
 
 **Logic Pro arrangement** — repeat and arrange exported MIDI regions on the timeline.
 
